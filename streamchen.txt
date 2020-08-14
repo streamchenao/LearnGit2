@@ -1,0 +1,16 @@
+XMYY-19deiMac:OPenHAB_app_IOS xmyy-19$ git branch -a(查看远程分支)
+  Develop
+* 娱乐室演示版
+  remotes/origin/1.0UI版本
+  remotes/origin/DebugV0.1
+  remotes/origin/DebugV_1.0
+  remotes/origin/Develop
+  remotes/origin/HEAD -> origin/Develop
+  remotes/origin/master
+  remotes/origin/shantou302
+  remotes/origin/娱乐室演示版
+  remotes/origin/演示通过版
+XMYY-19deiMac:OPenHAB_app_IOS xmyy-19$ git branch(查看本地分支)
+  Develop
+* 娱乐室演示版
+XMYY-19deiMac:OPenHAB_app_IOS xmyy-19$ git checkout -b v0.9rc1 origin/v0.9rc1(切换分支)
